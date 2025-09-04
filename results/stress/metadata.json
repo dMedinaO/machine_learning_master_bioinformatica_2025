@@ -1,0 +1,16 @@
+{
+    "name_columns": {
+        "academic_stage": "Your Academic Stage",
+        "peer_pressure": "Peer pressure",
+        "academic_pressure": "Academic pressure from your home",
+        "study_environment": "Study Environment",
+        "coping_strategy": "What coping strategy you use as a student?",
+        "bad_habits": "Do you have any bad habits like smoking, drinking on a daily basis?",
+        "rate_academic_competition": "What would you rate the academic  competition in your student life",
+        "academic_stress": "Rate your academic stress index "
+    },
+    "examples": 140,
+    "features": 7,
+    "task": "classification",
+    "data_creation": "2025-08-29 18:08:33"
+}

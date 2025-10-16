@@ -1,0 +1,10 @@
+{
+    "path" : "../results/1410/",
+    "name_dataset": "described_dataset.csv",
+    "column_label" : "label",
+    "columns_to_remove" : ["sequence","label"],
+    "val_size" : 0.2,
+    "test_size" : 0.1,
+    "scaler_method" : "max_abs",
+    "random_seed" : 42
+}

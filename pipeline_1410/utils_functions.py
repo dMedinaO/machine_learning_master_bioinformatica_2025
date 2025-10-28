@@ -72,3 +72,20 @@ def train_model(model, model_name, X_train, y_train, X_val, y_val, X_test=None, 
         dict_process.update({"testing_metrics" : testing_metrics})
     
     return model, dict_process
+
+def generate_row(performances):
+    row = {
+        "model" : performances["model"],
+        "val_accuracy" : performances["validation_metrics"]["accuracy_score"],
+        "val_precision" : performances["validation_metrics"]["precision_score"],
+        "val_recall" : performances["validation_metrics"]["recall_score"],
+        "val_f1" : performances["validation_metrics"]["f1_score"],
+        "val_mcc" : performances["validation_metrics"]["matthews_corrcoef"],
+        "test_accuracy" : performances["testing_metrics"]["accuracy_score"],
+        "test_precision" : performances["testing_metrics"]["precision_score"],
+        "test_recall" : performances["testing_metrics"]["recall_score"],
+        "test_f1" : performances["testing_metrics"]["f1_score"],
+        "test_mcc" : performances["testing_metrics"]["matthews_corrcoef"],
+    }
+
+    return row

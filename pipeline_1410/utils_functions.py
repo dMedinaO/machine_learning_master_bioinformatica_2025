@@ -46,20 +46,20 @@ def create_and_export_dataset(X_values, response, columns, column_label, name_ex
 
     df.to_csv(name_export, index=False)
 
-def get_metrics(y_true, y_pred):
+def get_metrics(y_true, y_pred, n_decimals=2):
 
     return {
-        "accuracy_score" : accuracy_score(y_true, y_pred), 
-        "precision_score" :precision_score (y_true, y_pred, average="weighted"),
-        "recall_score" : recall_score(y_true, y_pred, average="weighted"),
-        "f1_score" : f1_score(y_true, y_pred, average="weighted"), 
-        "matthews_corrcoef" : matthews_corrcoef(y_true, y_pred),
+        "accuracy_score" : round(accuracy_score(y_true, y_pred), n_decimals), 
+        "precision_score" :round(precision_score (y_true, y_pred, average="weighted"), n_decimals),
+        "recall_score" : round(recall_score(y_true, y_pred, average="weighted"), n_decimals),
+        "f1_score" : round(f1_score(y_true, y_pred, average="weighted"), n_decimals), 
+        "matthews_corrcoef" : round(matthews_corrcoef(y_true, y_pred), n_decimals),
      }
     
-def train_model(model, model_name, X_train, y_train, X_val, y_val, X_test=None, y_test=None):
+def train_model(model, model_name, X_train, y_train, X_val, y_val, X_test=None, y_test=None, n_decimals=2):
     model.fit(X_train, y_train)
 
-    validation_metrics = get_metrics(y_val, model.predict(X_val))
+    validation_metrics = get_metrics(y_val, model.predict(X_val), n_decimals=n_decimals)
 
     dict_process = {
         "model" : model_name,

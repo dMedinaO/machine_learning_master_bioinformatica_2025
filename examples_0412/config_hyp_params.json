@@ -1,0 +1,18 @@
+{
+    "hist_model" : {
+        "random_state":42,
+        "loss" : "log_loss"
+    },
+    "RF_model" : {
+        "random_state":42,
+        "n_estimators" : 500
+    },
+    "SVC" : {
+        "kernel" : "poly",
+        "degree" : 5
+    },
+    "LR" : {
+        "penalty" : "l2",
+        "random_state":42
+    }
+}

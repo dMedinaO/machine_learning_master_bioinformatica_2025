@@ -1,0 +1,41 @@
+enzyme name,UniProtKB accession number,PDB ID,enzyme class,origin,PLA substrate used for activity assay,methods of evaluation,pH opt,T opt (°C)
+CLEcs,Q874E9,2CZQ (410),EC 3.1,Cryptococcus sp. strain S-2,LACEA HT-100 from Mitsui Chemicals; Mw = 140 kDa; emulsion,turbidity decrease,7,37
+PLD,Q75UA4, ,EC 3.4,Amycolatopsis sp. strain K104-1,PLA from Shimadzu; Mw = 220 kDa; emulsion and cast film of 5 μm thickness,"halo, turbidity decrease, TLC",9.5,55–60
+PLD,Q75UA4, ,EC 3.4,Amycolatopsis sp. strain K104-1,PLA from Shimadzu; Mn = 220 kDa; emulsion,"TLC, product quantification, turbidity decrease, NMR",nda,nd
+PlaA,Q83VD0, ,EC 3.1,Paenibacillus amylotyticus TB-13,PDLLA from Wako; Mw = 5/10/20 kDa; emulsion,"halo, turbidity decrease, TOC, product quantification",10,50
+CutL1,P52956, ,EC 3.1,Aspergillus oryzae,PLA Plasema L110 from DaiIchi Kogyo Seiyaku; emulsion,turbidity decrease,8,35–55
+PLAase I,only N-terminus available, ,EC 3.4,Amycolatopsis orientalis ssp. orientalis,PLA from Sigma; Mw = 85–160 kDa; emulsion,product quantification,9.5,60
+PLAase II,B0FLR6, ,EC 3.4,Amycolatopsis orientalis ssp. orientalis,PLA from Sigma; Mw = 85–160 kDa; emulsion,product quantification,10.5,50
+PLAase III,B0FY08, ,EC 3.4,Amycolatopsis orientalis ssp. orientalis,PLA from Sigma; Mw = 85–160 kDa; emulsion,product quantification,9.5,60
+PlaM9,A4UZ14, ,EC 3.1,metagenomic library,PDLLA from Wako; Mw = 5 kDa; powder,"turbidity decrease, TOC",nd,nd
+PlaM8,A4UZ13, ,EC 3.1,metagenomic library,PDLLA from Wako; Mw = 5 kDa; powder,"turbidity decrease, TOC",nd,nd
+PlaM7,A4UZ12, ,EC 3.1,metagenomic library,PDLLA from Wako; Mw = 5 kDa; powder,"turbidity decrease, TOC",nd,nd
+PlaM5,A4UZ11, ,EC 3.1,metagenomic library,PDLLA from Wako; Mw = 5 kDa; powder,"turbidity decrease, TOC",nd,nd
+PlaM4,A4UZ10, ,EC 3.1,metagenomic library,PDLLA from Wako; Mw = 5 kDa; powder,"turbidity decrease, TOC",7,70
+pla,"from article, not deposited", ,EC 3.4,Actinomadura keratinilytica T16-1,"LACEA, Japan; emulsion",turbidity decrease,nd,nd
+Est1,D4Q9N1, ,EC 3.1,Thermobifida alba AHK119,nd,halo,6,50
+Ta_cut/Est119,F7IX06,3VIS for wild-type enzyme (186) and 6AID for inactive variant S169A (187),EC 3.1,Thermobifida alba AHK119,home-synthesized PLLA Mw = 169 kDa and PDLA Mw = 163 kDa; emulsion,halo,6,45–50
+PaE,S6BC01, ,EC 3.1,Pseudozyma antarctica,PLLA from Toyota Motor; Mw = 186 kDa and Mn = 113 kDa; cast film,SPR and AFM,nd,nd
+PaE,S6BC01, ,EC 3.1,Pseudozyma antarctica,PDLLA-0020 from Wako Chemicals; Mw = 20 kDa; cast films,"TOC, SEM, product quantification",9.5,40
+CmCut1,A0A060N5H2, ,EC 3.1,Cryptococcus magnus,PLLA from Polyscience; Mw = 100 kDa and PDLLA from Wako Pure Chemical Industries; Mw = 20 kDa; cast films,TOC,7.6,40
+LP175,A0A291HVH1, ,EC 3.4,Laceyella sacchari LP175,"PLLA objects from Natureplast, milled to 500 μm particles; Mw = 71 kDa","turbidity decrease, product quantification",9,60
+PCLE,A0A060N399, ,EC 3.1,Paraphoma-related fungal strain B47-9,PDLLA from Wako Pure Chemicals; Mw = 20 kDa; cast films,"TOC, SPR",7.2,45
+CLEcf,A0A0P0ZE81, ,EC 3.1,Cryptococcus flavus GB-1,PLLA from Polyscience Inc.; Mw 100 kDa and PDLLA from Wako Pure Chemicals Mw = 20 kDa; Cast films,TOC,7.8,45
+MGS0010,W0M2H4, ,EC 3.1,metagenomic library,PDLLA from PolySciTech; Mw = 2 kDa; emulsion,halo,8–10,30
+MGS0109,T1W006, ,EC 3.1,metagenomic library,PDLLA from PolySciTech; Mw = 2 kDa; emulsion,halo,8–10,30
+ABO_1197,Q0VQA3, ,EC 3.1,Alcalinovorax borkumensis,PDLLA from PolySciTech; Mw = 2 kDa; emulsion,halo,8–10,30
+MGS0105,T1W153, ,EC 3.1,metagenomic library,PDLLA from PolySciTech; Mw = 2 kDa; emulsion,halo,8–10,15
+ABO_1251,Q0VQ49, ,EC 3.1,Alcalinovorax borkumensis,PDLLA from PolySciTech; Mw = 2 kDa; emulsion,halo,8–10,35
+ABO_2449,Q0VLQ1, ,EC 3.1,Alcanivorax borkumensis,PLA10 from Sigma; Mw = 10–18 kDa; powder,"halo, turbidity decrease, product quantification",9.5–10,30–37
+RPA1511,Q6N9M9,4PSU,EC 3.1,Rhodopseudomonas palustris,PLA10 from Sigma; Mw = 10–18 kDa; powder,"halo, turbidity decrease, product quantification",9.5–10,55–60
+MGS0084,A0A0G3FL20, ,EC 3.1,metagenomic library,PDLA Mw = 2 kDa; emulsion,halo,nd,25
+MGS0156,A0A0G3FEJ8,5D8M,EC 3.1,metagenomic library,PDLA Mw = 2 kDa; emulsion,halo,nd,nd
+MGS0156,A0A0G3FEJ8,5D8M,EC 3.1,metagenomic library,PLA10 Resomer R 202 H from Sigma; Mw = 10–18 kDa; powder,"halo, turbidity decrease, product quantification",10,40
+GEN0105,A0A0G3FJ39, ,EC 3.1,metagenomic library,PLA10 Resomer R 202 H from Sigma; Mw = 10–18 kDa; powder,"halo, turbidity decrease, product quantification",5−10,35
+Thc_cut1,E9LVH8,5LUI,EC 3.1,Thermobifida cellulosilytica,PLLA from Goodfellow; film of 50 μm thickness,"product quantification, TOC",nd,nd
+Thc_cut2,E9LVH9,5LUJ,EC 3.1,Thermobifida cellulosilytica,PLLA from Goodfellow; film of 50 μm thickness,"product quantification, TOC",nd,nd
+Thc_cut2 R29N/A30V, ,5LUK,EC 3.1,Thermobifida cellulosilytica,PLLA from Goodfellow; film of 50 μm thickness,"product quantification, TOC",nd,nd
+Thc_cut2 R19S/R29N/A30V, ,5LUL,EC 3.1,Thermobifida cellulosilytica,PLLA from Goodfellow; film of 50 μm thickness,"product quantification, TOC",nd,nd
+Cut190; variant S226P/R228S,W0TJ64 (wild-type protein),7CEF (190),EC 3.1,Saccharomonospora viridis,home-synthesized PDLA Mw = 163 kDa; cast films,"halo, weight loss",6.5–7,65
+polyesterase,"from patent, not deposited", ,EC 3.4,Actinumadura keratinilytica T16.1,"PLLA powder from Natureplast (100 μm to 2 mm), PLA films from Goodfellow (50 μm thickness) or PLA objects",product quantification,8.5,50
+extracellular serine proteinase,P80146, ,EC 3.4,Thermus sp. strain Rt41A,PLLA powder from Natureplast (500 μm),product quantification,8,90

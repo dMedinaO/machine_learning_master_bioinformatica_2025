@@ -1,0 +1,11 @@
+ID	Genbank ID	locus_tag	source	function
+PD1	QPI65985.1	IR195_09930	Halomonas venusta	hydrolase
+PD2	QPI64981.1	IR195_04495	Halomonas venusta	α/β fold hydrolase
+PD3	QPA27412.1	IR196_16650	Brucella anthropi	α/β fold hydrolase
+PD4	QPI67555.1	IR194_14175	Exiguobacterium sp.	LysM peptidoglycan-binding domain-containing protein
+PD5	QPI66471.1	IR194_08235	Exiguobacterium sp.	G-D-S-L family lipolytic protein
+PD6	QPI67435.1	IR194_13555	Exiguobacterium sp.	α/β fold hydrolase
+PD7	QPI68731.1	IR194_05420	Exiguobacterium sp.	α/β fold hydrolase
+PD8	QPI68425.1	IR194_03795	Exiguobacterium sp.	α/β hydrolase
+PD9	QPI66066.1	IR195_10375	Halomonas venusta	response regulator transcription factor
+PD10	QPA26456.1	IR196_00850	Brucella anthropi	α/β fold hydrolase

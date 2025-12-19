@@ -1,0 +1,51 @@
+1B65_A.fasta: Sequence from pdb|1B65|A is not identical to any sequence in the database.
+Highest similarity is 38.67% with database sequence 00171.
+1VZ6_A.fasta: Sequence from pdb|1VZ6|A is not identical to any sequence in the database.
+Highest similarity is 39.19% with database sequence 00043.
+1WYB_A.fasta: Sequence from pdb|1WYB|A is not identical to any sequence in the database.
+Highest similarity is 95.66% with database sequence 00044.
+1WYC_A.fasta: Sequence from pdb|1WYC|A is not identical to any sequence in the database.
+Highest similarity is 95.15% with database sequence 00044.
+2DCF_A.fasta: Sequence from pdb|2DCF|A is not identical to any sequence in the database.
+Highest similarity is 94.90% with database sequence 00044.
+2DRH_A.fasta: Sequence from pdb|2DRH|A is not identical to any sequence in the database.
+Highest similarity is 37.67% with database sequence 00045.
+2E8I_A.fasta: Sequence from pdb|2E8I|A is not identical to any sequence in the database.
+Highest similarity is 95.41% with database sequence 00044.
+2ZLY_A.fasta: Sequence from pdb|2ZLY|A is not identical to any sequence in the database.
+Highest similarity is 95.41% with database sequence 00044.
+2ZM0_A.fasta: Sequence from pdb|2ZM0|A is not identical to any sequence in the database.
+Highest similarity is 94.90% with database sequence 00044.
+2ZM2_A.fasta: Sequence from pdb|2ZM2|A is not identical to any sequence in the database.
+Highest similarity is 94.39% with database sequence 00044.
+2ZM7_A.fasta: Sequence from pdb|2ZM7|A is not identical to any sequence in the database.
+Highest similarity is 95.15% with database sequence 00044.
+2ZM8_A.fasta: Sequence from pdb|2ZM8|A is not identical to any sequence in the database.
+Highest similarity is 95.15% with database sequence 00044.
+2ZM9_A.fasta: Sequence from pdb|2ZM9|A is not identical to any sequence in the database.
+Highest similarity is 94.13% with database sequence 00044.
+2ZMA_A.fasta: Sequence from pdb|2ZMA|A is not identical to any sequence in the database.
+Highest similarity is 94.64% with database sequence 00044.
+3A2P_A.fasta: Sequence from pdb|3A2P|A is identical to database sequence 00168.
+3A2Q_A.fasta: Sequence from pdb|3A2Q|A is not identical to any sequence in the database.
+Highest similarity is 99.80% with database sequence 00168.
+3AXG_A.fasta: Sequence from pdb|3AXG|A is identical to database sequence 00045.
+3N33_A.fasta: Sequence from pdb|3N33|A is not identical to any sequence in the database.
+Highest similarity is 39.14% with database sequence 00170.
+4IVK_A.fasta: Sequence from pdb|4IVK|A is not identical to any sequence in the database.
+Highest similarity is 35.94% with database sequence 00043.
+5XYG_A.fasta: Sequence from pdb|5XYG|A is identical to database sequence 00170.
+5XYO_A.fasta: Sequence from pdb|5XYO|A is not identical to any sequence in the database.
+Highest similarity is 99.72% with database sequence 00170.
+5XYP_A.fasta: Sequence from pdb|5XYP|A is not identical to any sequence in the database.
+Highest similarity is 99.72% with database sequence 00170.
+5XYQ_A.fasta: Sequence from pdb|5XYQ|A is not identical to any sequence in the database.
+Highest similarity is 99.72% with database sequence 00170.
+5XYS_A.fasta: Sequence from pdb|5XYS|A is not identical to any sequence in the database.
+Highest similarity is 99.72% with database sequence 00170.
+5XYT_A.fasta: Sequence from pdb|5XYT|A is not identical to any sequence in the database.
+Highest similarity is 99.72% with database sequence 00170.
+5Y0L_A.fasta: Sequence from pdb|5Y0L|A is not identical to any sequence in the database.
+Highest similarity is 99.44% with database sequence 00170.
+5Y0M_A.fasta: Sequence from pdb|5Y0M|A is not identical to any sequence in the database.
+Highest similarity is 98.87% with database sequence 00170.

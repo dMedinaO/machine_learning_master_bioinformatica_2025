@@ -1,0 +1,32 @@
+Las enzimas para la degradación de poliamidas (a.k.a. nylonasas) en esta carpeta son archivos .fasta y .pdb recopiladas a partir de diferentes publicaciones,
+las principales:
+
+	Seiji Negoro, et al. (2021) Structural and functional characterization of nylon hydrolases
+
+	Seiji Negoro, et al. (2012) Three-dimensional Structure of Nylon Hydrolase and Mechanism of Nylon-6 Hydrolysis
+
+La siguiente lista describe los códigos pdb de las proteínas de la carpeta:
+pdb_codes = ["3A2P", "3A2Q", "1WYB", "1WYC", "2DCF", 
+             "2E8I", "2ZM0", "2ZM7", "2ZMA", "2ZLY", 
+             "2ZM2", "2ZM8", "2ZM9", "3AXG", "5XYG", 
+             "5XYO", "5XYP", "5XYQ", "5XYS", "5XYT", 
+             "5Y0L", "5Y0M", "4IVK", "1B65", "2DRH", 
+             "3N33", "1VZ6"]
+
+Nylonases - ncbi contiene las descargas de .fasta a partir de NCBI, dentro una subcarpeta con las mismas proteínas en .pdb
+El archivo de reporte indica cuales son idénticas a las enzimas mostradas en Plastic Data Base y los porcentajes de similitud a aquellas que no
+
+Los códigos consideran las enzimas NylA, NylB, NylC, NylD y NylE, así como algunas mutantes y otras enzimas de alta identidad con las mismas.
+
+NylA: EC 3.5.2.12
+
+NylB: EC 3.5.1.46
+
+NylC: EC 3.5.1.117
+
+NylD: EC 1.2.1.-
+
+NylE: EC 2.6.1.-
+
+Consultas, comentarios : luis.castro.n@ug.uchile.cl
+
